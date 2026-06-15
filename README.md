@@ -1,4 +1,4 @@
-# 🧠 Mini ChatGPT — Research Assistant
+# Synora-ai-chatbot
 
 A Python AI chatbot with **live web search** powered by Claude claude-sonnet-4-6.  
 Searches the internet and answers ANY question in real time.
