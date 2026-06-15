@@ -22,4 +22,4 @@ A lightweight AI chatbot that delivers intelligent conversational responses usin
 - Flask 🌐
 - HTML, CSS, JavaScript
 - Ollama (Gemma 3)
-- Frontend: HTML, CSS, JavaScript
+
